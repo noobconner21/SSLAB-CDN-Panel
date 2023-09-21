@@ -33,7 +33,7 @@ Most of the code was extracted from pancho's ssh tunnel over aws cloudfront scri
 1. x64
 
 ```sh
-apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/noobconner21/SSLAB-CDN-Panel/main/setup.sh; chmod 777 cdn.sh; bash cdn.sh
+apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/noobconner21/SSLAB-CDN-Panel/main/cdn.sh; chmod 777 cdn.sh; bash cdn.sh
 ```
 
 
